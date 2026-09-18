@@ -7,7 +7,7 @@ Currently engineering financial workflows and event-driven batch pipelines at **
 
 ### 🛡️ Production Focus & Principles
 - **Resilience & Uptime First:** Defensive architecture, circuit breakers, multi-level caching strategies, and graceful degradation under high traffic.
-- **Data Integrity & Asynchronous Messaging:** Reliable event-driven pipelines (AWS SQS/SNS), idempotent transaction processing, and automated reconciliation.
+- **Data Integrity & Asynchronous Messaging:** Reliable event-driven pipelines, idempotent event processing, and automated reconciliation.
 - **Code Quality & Testability:** Strong automated testing discipline (unit, integration, and mocking frameworks like MockK) with clean architectural boundaries.
 
 ### 🛠️ Core Tech & Ecosystem
